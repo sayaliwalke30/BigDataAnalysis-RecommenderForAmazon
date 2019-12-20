@@ -1,4 +1,9 @@
 # Amazon-Recommender-System and Data analysis
+### /**
+
+### author Sayali Walke
+
+### **/
 
 # Dataset used for analysis:
 The Amazon Customer Reviews Dataset is a large dataset with size > 20GB. 
