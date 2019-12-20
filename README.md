@@ -54,7 +54,7 @@ review_date: The date the review was written.
 #### 9.	Percentage of Helpful votes: (Numerical Summarization Pattern)
 
 # Apache HIVE
-#### 1.	Top 10 Products based on Average ratings
+#### 1. Top 10 Products based on Average ratings
 #### 2.	Most Valuable Customer based on number of products bought
 #### 3.	Most popular product based on number times product bought
 #### 4.	Number of products bought per day
