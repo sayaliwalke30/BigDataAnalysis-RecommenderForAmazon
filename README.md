@@ -1,4 +1,4 @@
-# Amazon-Recommender-System and Data analysis
+# Amazon-Recommender-System and Data analysis using Map reduce
 ### /**
 
 ### author Sayali Walke
