@@ -67,8 +67,8 @@ review_date: The date the review was written.
 #### 5.	Number of products per ratings
 
 # Apache Pig
-#### 1.	 Number of reviews given per day
-#### 2.	 Number reviews given per product
+#### 1.	 Number of reviews given per day.
+#### 2.	 Number reviews given per product.
 
 
 
