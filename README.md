@@ -1,6 +1,6 @@
 # Amazon-Recommender-System and Data analysis using Map reduce
 #### Deployed single node cluster to perform analysis using map reduce
-#### Also explored 
+#### Also explored dataset in 
 ### /**
 
 ### author Sayali Walke
