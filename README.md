@@ -1,4 +1,4 @@
-# Amazon-Recommender-System and Data analysis using Map reduce
+# Amazon-Recommender-System and Data Analysis using Map reduce
 #### Deployed single node cluster to perform analysis using map reduce
 #### Carried out data
 ### /**
