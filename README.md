@@ -1,4 +1,4 @@
-# Amazon-Recommender-System and Data Analysis using Map reduce
+# Amazon-Recommender-System and Data Analysis using Map Reduce
 ## Problem Statement:
 #### 
 #### Deployed single node cluster to perform analysis using map reduce
