@@ -1,6 +1,6 @@
 # Amazon-Recommender-System and Data Analysis using Map Reduce
 ## Problem Statement:
-#### 
+#### Perform Data Analysis on 130M+ records and build a recommender system
 #### Deployed single node cluster to perform analysis using map reduce
 #### Carried out data analysis on big data
 ### /**
