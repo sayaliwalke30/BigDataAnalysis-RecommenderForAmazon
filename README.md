@@ -1,4 +1,4 @@
-# Big DAta Analysis and Recommdender system for Amazon
+# Big Data Analysis and Recommdender System for Amazon
 ## Problem Statement:
 #### Perform Data Analysis on 130M+ records and build a recommender system
 #### Deployed single node cluster to perform analysis using map reduce
