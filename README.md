@@ -14,7 +14,7 @@ The Amazon Customer Reviews Dataset is a large dataset with size > 20GB.
 However, for this analysis, I’ve used a subset of this dataset named
 “amazon_reviews_us_Beauty_v1_00.tsv” 
 
-### Here’s the detailed description of dataset and its contents. 
+#### Here’s the detailed description of dataset and its contents. 
 marketplace: 2 letter country code of the marketplace where the review was written. 
 
 customer_id: Random identifier that can be used to aggregate reviews written by a single author. 
